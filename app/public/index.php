@@ -1,4 +1,8 @@
-<?php ?>
+<?php
+
+echo 'Welcome to the dev side of things 🙃'
+
+?>
 
 <!doctype html>
 <html lang="en">
